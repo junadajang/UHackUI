@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorTop">#00cc66</color>
+    <color name="colorBot">#99ff66</color>
+    <color name="colorAccent">#72da72</color>
+    <color name="white">#ffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="dash_prof">#9ed698</color>
+</resources>
